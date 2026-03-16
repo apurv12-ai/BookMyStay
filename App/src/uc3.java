@@ -61,7 +61,6 @@ class SuiteRoom extends Room {
 public class uc3 {
 
     public static void main(String[] args) {
-
         // Create room objects using polymorphism
         Room singleRoom = new SingleRoom();
         Room doubleRoom = new DoubleRoom();
