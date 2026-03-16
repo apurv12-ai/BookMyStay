@@ -58,7 +58,7 @@ class SuiteRoom extends Room {
 // ============================================================
 // MAIN CLASS
 // ============================================================
-public class uc2 {
+public class uc3 {
 
     public static void main(String[] args) {
 
