@@ -1,0 +1,3 @@
+Suite=0
+Single=1
+Double=0
